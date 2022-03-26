@@ -1,0 +1,12 @@
+.input {
+  padding: 10px;
+  width: inherit;
+}
+
+.container {
+  display: grid;
+}
+
+.label {
+  padding-bottom: 5px;
+}
